@@ -1,5 +1,5 @@
 ;;;; Copyright (C) Joseph Donaldson (2014). All Rights Reserved.
-;;;; Adapted for Bigloo
+;;;; Bigloo Adaption of srfi-41
 
 ;;;; Copyright (C) Philip L. Bewig (2007). All Rights Reserved.
 
